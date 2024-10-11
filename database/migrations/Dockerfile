@@ -5,7 +5,11 @@ RUN go install github.com/jackc/tern@latest
 
 # Build final image
 
+
+
+
 FROM alpine:3.20
+
 
 RUN addgroup -S db-migrator -g 1000 && adduser -S db-migrator -u 1000 -G db-migrator
 USER 1000
