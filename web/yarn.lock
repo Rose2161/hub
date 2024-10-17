@@ -7260,6 +7260,7 @@ material-colors@^1.2.1:
   resolved "https://registry.yarnpkg.com/material-colors/-/material-colors-1.2.6.tgz#6d1958871126992ceecc72f4bcc4d8f010865f46"
   integrity sha512-6qE4B9deFBIa9YSpOc9O0Sgc43zTeVYbgDT5veRKSlB2+ZuHNoVVxA1L/ckMUayV9Ay9y7Z/SZCLcGteW9i7bg==
 
+
 mdast-squeeze-paragraphs@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/mdast-squeeze-paragraphs/-/mdast-squeeze-paragraphs-6.0.0.tgz#31124640090f1f03908c6bfb70f78aa3d295bf94"
@@ -7267,6 +7268,7 @@ mdast-squeeze-paragraphs@^6.0.0:
   dependencies:
     "@types/mdast" "^4.0.0"
     unist-util-visit "^5.0.0"
+
 
 mdast-util-find-and-replace@^3.0.0:
   version "3.0.1"
@@ -9045,10 +9047,10 @@ react-app-polyfill@^3.0.0:
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
 
-react-codemirror2@^7.3.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/react-codemirror2/-/react-codemirror2-7.3.0.tgz#c26e9fe655458389c6218496076e4bc7a4c31166"
-  integrity sha512-gCgJPXDX+5iaPolkHAu1YbJ92a2yL7Je4TuyO3QEqOtI/d6mbEk08l0oIm18R4ctuT/Sl87X63xIMBnRQBXYXA==
+react-codemirror2@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/react-codemirror2/-/react-codemirror2-8.0.0.tgz#0ce624d024ba4ac7bab8979c2fd6596500d6bf51"
+  integrity sha512-JIbhXoghvX0BrasIoCQvRxBPIU78plfjF1Buz0gaMFvZXwEDjkCYBkQhucoOtudQ7ikbB1jJUnmCsutElti7yA==
 
 react-color@^2.19.3:
   version "2.19.3"
@@ -10788,12 +10790,14 @@ unique-string@^2.0.0:
   dependencies:
     crypto-random-string "^2.0.0"
 
+
 unist-util-is@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/unist-util-is/-/unist-util-is-6.0.0.tgz#b775956486aff107a9ded971d996c173374be424"
   integrity sha512-2qCTHimwdxLfz+YzdGfkqNlH0tLi9xjTnHddPmJwtIG9MGsdbutfTc4P+haPD7l7Cjxf/WZj+we5qfVPvvxfYw==
   dependencies:
     "@types/unist" "^3.0.0"
+
 
 unist-util-stringify-position@^4.0.0:
   version "4.0.0"
