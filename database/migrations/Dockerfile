@@ -4,7 +4,7 @@ RUN apk --no-cache add git
 RUN go install github.com/jackc/tern@latest
 
 # Build
-FROM alpine:3.20
+FROM alpine:3.21.0
 
 
 
