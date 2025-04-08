@@ -7,8 +7,7 @@
 
     "analytics": "^0.8.14",
     "apexcharts": "^3.54.0",
-    "bootstrap": "^5.3.3",
-
+    "bootstrap": "^5.3.0",
     "classnames": "^2.5.1",
     "codemirror": "^5.65.15",
     "codemirror-rego": "^1.2.2",
