@@ -9,10 +9,8 @@ COPY internal internal
 WORKDIR /go/src/github.com/artifacthub/ah/cmd/ah
 RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -ldflags="-X main.version=$VERSION -X main.gitCommit=$GIT_COMMIT" -o /ah .
 
-# Final stage
-
-
-FROM alpine:3.21.0
+# Final Stage
+FROM alpine:3.21.3
 
 
 
