@@ -7319,7 +7319,7 @@ path-scurry@^1.10.1:
     minipass "^5.0.0 || ^6.0.2 || ^7.0.0"
 
 path-to-regexp@0.1.10:
-  version "0.1.10"
+  version "0.1.7"
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-0.1.7.tgz#df604178005f522f15eb4490e7247a1bfaa67f8c"
   integrity sha512-5DFkuoqlv1uYQKxy8omFBeJPQcdoE07Kv2sferDCrAq1ohOU+MSDswDIbnx3YAM60qIOnYa53wBhXW0EbMonrQ==
 
@@ -8227,10 +8227,10 @@ react-scripts@^5.0.1:
   optionalDependencies:
     fsevents "^2.3.2"
 
-react-shadow@^20.5.0:
-  version "20.5.0"
-  resolved "https://registry.yarnpkg.com/react-shadow/-/react-shadow-20.5.0.tgz#dbfe87be42c33b57aab88d11a547060ddc8be7f5"
-  integrity sha512-DHukRfWpJrFtZMcZrKrqU3ZwuHjTpTbrjnJdTGZQE3lqtC5ivBDVWqAVVW6lR3Lq6bhphjAbqaJU8NOoTRSCsg==
+react-shadow@^20.6.0:
+  version "20.6.0"
+  resolved "https://registry.yarnpkg.com/react-shadow/-/react-shadow-20.6.0.tgz#13c11ec50787ba6ab637381814562066be368d49"
+  integrity sha512-kY+w4OMNZ8Nj9YI9eiTgvvJ/wYO7XyX1D/LYhvwQZv5vw69iCiDtGB0BX/2U8gLUuZAMN+x/7rHJKqHh8wXFHQ==
   dependencies:
     humps "^2.0.1"
 
