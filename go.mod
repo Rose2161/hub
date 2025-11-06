@@ -1,6 +1,7 @@
 module github.com/artifacthub/hub
 
-go 1.21
+go 1.23.0
+
 toolchain go1.23.4
 
 require (
@@ -46,7 +47,7 @@ require (
 	github.com/wagslane/go-password-validator v0.3.0
 	github.com/writeas/go-strip-markdown v2.0.1+incompatible
 	golang.org/x/crypto v0.32.0
-	golang.org/x/oauth2 v0.25.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/text v0.21.0
 	google.golang.org/api v0.216.0
 	gopkg.in/yaml.v2 v2.4.0
